@@ -1,2 +1,3 @@
-# resume_CV
-Display pdf version of resume and CV
+# Display Resume
+Last upload: 2022.9.8
+
